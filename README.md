@@ -27,13 +27,13 @@
 
 ### 1주차
 
-- L2_가장 큰 정사각형
-- L2_올바른 괄호
-- L2_다음 큰 숫자
-- L2_땅따먹기
-- L2_멀리뛰기
-- L3_가장 긴 팰린드롬
-- L3_스티커 모으기(2)
-- L3_기지국 설치
+- [L2_가장 큰 정사각형](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
+- [L2_올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [L2_다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+- [L2_땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
+- [L2_멀리뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)
+- [L3_가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)
+- [L3_스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
+- [L3_기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
 
 
