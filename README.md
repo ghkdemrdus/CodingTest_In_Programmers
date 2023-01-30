@@ -7,7 +7,7 @@
 
 
 ### 횟수
-주 **8**회 `[Solved]` commit - 시간은 자유롭게 (단 마감시간 일요일 23:59)
+주 **8**회 `[Solve]` commit - 시간은 자유롭게 (단 마감시간 일요일 23:59)
 
 ### 방식
 
@@ -19,7 +19,7 @@
 
 - 가장 업로드가 오래된 순으로 진행한다.
 
-- commit 특성 별로 `[Solved]`, `[Unsolved]`, `[Fix]`, `[Refact]` 키워드를 commit message에 추가한다.
+- commit 특성 별로 `[Solve]`, `[Unsolve]`, `[Fix]`, `[Refact]` 키워드를 commit message에 추가한다.
 
 ### 목표
 
