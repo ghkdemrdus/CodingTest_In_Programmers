@@ -1,10 +1,12 @@
 def solution(s):
     stack = []
-    for v in s:
-        if v == ')':
-            if len(stack) > 0 and stack[-1] == '(': 
+    OPENER = '('
+    CLOSER = ')'
+    for b in s:
+        if b == CLOSER:
+            if stack and stack[-1] == OPENER: 
                 stack.pop()
                 continue
-        stack.append(v)
-    answer = True if len(stack) == 0 else False
+        stack.append(b)
+    answer = True if not stack else False
     return answer
