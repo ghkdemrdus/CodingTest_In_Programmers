@@ -41,4 +41,15 @@
 - [L3_스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)
 - [L3_기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)
 
+### 2주차
+>Selector: @ChoHadam
+- [L2_혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- [L2_마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+- [L2_무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [L2_빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
+- [L2_시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
+- [L3_숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
+- [L3_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
+- [L3_여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+
 
