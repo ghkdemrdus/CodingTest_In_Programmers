@@ -56,7 +56,7 @@
 >Selector: @ghkdemrdus
 
 - [L2_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
-- [L2_최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [L2_최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)
 - [L2_피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
 - [L2_하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
 - [L2_배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
