@@ -3,7 +3,7 @@
 >
 
 ### 스터디 운영
-@ghkdemrdu, @ChoHadam
+@ghkdemrdus, @ChoHadam
 
 
 ### 횟수
@@ -30,7 +30,7 @@
 1문제당 5,000원 (최대 40,000원)
 
 ### 1주차
->Selector: @ghkdemrdu
+>Selector: @ghkdemrdus
 
 - [L2_가장 큰 정사각형](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 - [L2_올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
@@ -51,5 +51,17 @@
 - [L3_숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
 - [L3_섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)
 - [L3_여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)
+
+### 3주차
+>Selector: @ghkdemrdus
+
+- [L2_최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
+- [L2_최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+- [L2_피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)
+- [L2_하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)
+- [L2_배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)
+- [L3_베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- [L3_디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [L3_N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 
 
