@@ -1,10 +1,8 @@
 from collections import deque
-import copy
 
 def bfs(start, graph, visited):
         top_count = 0
         q = deque([start])
-        visited[start] = True
         
         while q:
             curr_node = q.popleft()
@@ -18,23 +16,22 @@ def bfs(start, graph, visited):
 
 def solution(n, wires):
     answer = int(1e9)
-    origin_graph = {}
+    graph = {}
     
     for (a, b) in wires:
-        if not origin_graph.get(a):
-            origin_graph[a] = []
-        if not origin_graph.get(b):
-            origin_graph[b] = []
-        origin_graph[a].append(b)
-        origin_graph[b].append(a)
+        if not graph.get(a):
+            graph[a] = []
+        if not graph.get(b):
+            graph[b] = []
+        graph[a].append(b)
+        graph[b].append(a)
     
     for (a, b) in wires:
         visited = [False] * (n+1)
-        g = copy.deepcopy(origin_graph)
-        g[a].remove(b)
-        g[b].remove(a)
-        a_top_count = bfs(a, g, visited)
-        b_top_count = bfs(b, g, visited)
+        visited[a] = True
+        visited[b] = True
+        a_top_count = bfs(a, graph, visited)
+        b_top_count = bfs(b, graph, visited)
         answer = min(answer, abs(a_top_count - b_top_count))
     
     return answer
